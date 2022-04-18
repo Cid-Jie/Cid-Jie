@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-“ Hello, I am Cidjie, nice to meet you, 
+“ Hello, I am Cidjie, 
 
 I am in the process of retraining to become a web developer.
-
 I was an intensive care nurse for ten years, but after all this time spent caring for the sick, I decided to change completely fields. 
 
 Indeed, i have another passion for computer and I focused on web development. I foolowed an intensive training of five month at Wild Code School because learning is hands-on. I was lucky enough to be able to work in partners with companies requesting a project and participate in hackatons. After one month of training, I created in collaboration with comrades a tourist site on the city of Lyon. All practices allow the use of several tools essential for good communication when several people have to agree on the same project, as well as teamwork, and collaboration. 
