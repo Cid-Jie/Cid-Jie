@@ -1,4 +1,4 @@
-“ 👋 Hello, I am Cidjie, 
+“ 👋 Hi there,
 
 I am in the process of retraining to become a web developer.
 I was an intensive care nurse for ten years, but after all this time spent caring for the sick, I decided to change completely fields. 
