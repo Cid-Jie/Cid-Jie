@@ -1,5 +1,4 @@
-
-globe.jpg
+![globe resized resized](https://user-images.githubusercontent.com/76404051/163788236-39808833-c892-4413-97df-48b6811a48e1.jpg)
 
 “ 👋 Hi there,
 
