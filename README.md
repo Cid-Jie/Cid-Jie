@@ -8,4 +8,4 @@ Indeed, i have another passion for computer and I focused on web development. I 
 After my training, I want to work as a back end developer, I really like this part of job, the protection of user data being a subject at the heart of all the news. I will be very motivated and  happy to work with you. I consider myself very rigorous for this position, I am adaptable and persevering when problems arise. And I will be available from September .  ”  
 
 
-![globe resized resized resized](https://user-images.githubusercontent.com/76404051/163788547-a758c279-da22-4d46-96f4-986ff03ca0e3.jpg)
+class="text-center" ![globe resized resized resized](https://user-images.githubusercontent.com/76404051/163788547-a758c279-da22-4d46-96f4-986ff03ca0e3.jpg)
